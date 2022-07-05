@@ -1,7 +1,7 @@
 # Program to count the number of each vowels
 # string of vowels
 vowels = 'aeiou'
-ip_str = 'Hello, dit me may'
+ip_str = 'Hello, how are you'
 
 # make it suitable for caseless comparisions
 ip_str = ip_str.casefold()
